@@ -17,28 +17,28 @@ The dataset consists of:
 2. Customers Table: Contains customer-related information such as city and customer ID
 
 # Concepts Covered
-1. Joins
+## Joins
 Combined multiple tables to create a unified dataset
 
-2. Advanced Filtering
-a. Applied conditional logic to refine datasets
-b. Used WHERE, HAVING, and date-based filters to isolate relevant records
+## Advanced Filtering
+1. Applied conditional logic to refine datasets
+2. Used WHERE, HAVING, and date-based filters to isolate relevant records
 
-3. Aggregation & Grouping
-a. Used GROUP BY and aggregate functions (SUM, COUNT, AVG)
-b.Structured data for meaningful summaries
+## Aggregation & Grouping
+1. Used GROUP BY and aggregate functions (SUM, COUNT, AVG)
+2.Structured data for meaningful summaries
 
 # Business Questions Answered
-1.Monthly Revenue
-a. Calculated total revenue generated per month
-b. Identified revenue trends over time
+## Monthly Revenue
+1. Calculated total revenue generated per month
+2. Identified revenue trends over time
 
-2. Top Performing Month
-a. Determined the month with the highest revenue
-b. Highlighted peak business performance period
+## Top Performing Month
+1. Determined the month with the highest revenue
+2. Highlighted peak business performance period
 
-3. Top City by Revenue
-a. Identified the city generating the highest revenue
+## Top City by Revenue
+1. Identified the city generating the highest revenue
 
 # Key Insights
 1. Revenue patterns show variation across different months with January as the top preforming month
